@@ -2,11 +2,7 @@
 
 {% include_relative quick/alborruba.md %}
 
-## 🔥 Casa Melaurion e seus aliados
-_O brasão da casa Melaurion é uma mão segurando uma tocha dourada sobre campo negro. Lema: “Luz na treva mais densa”._
-- __Rei Silax de Melaurion, o Usurpador__: Vassalo poderoso, detentor de minas de ouro. Deu um golpe após a morte do Rei Alden. Obrigou a Princesa Aethel a casar consigo após o golpe.
-- __Corvus Mantonegro__: Mago residente nas terras Melaurion e apontado ao Witan por Silax. Ambicioso e secretivo, os demais membros do Conselho temem e desconfiam de suas ações e intenções.
-- __Capitão Kael__: Atual comandante da Guarda Bianca. Assumiu o controle da guarda durante o golpe de Silax, depondo sua antecessora. É o braço direito do Usurpador.
+{% include_relative quick/melaurion.md %}
 
 ## 🏛️ Estruturas Políticas de Osíria
 - __O Witan__: O Conselho dos Sábios, responsável por apontar e orientar os reis de Osíria. Composto por 11 vassalos, o Capelão (apontado pelo Zênite da Prima Luz), e um assento apontado pelo Rei. A maioria do Conselho votou por legitimar o Rei Silax, mas alguns permanecem apoiadores de Aethel.
@@ -31,5 +27,3 @@ _O brasão da casa Melaurion é uma mão segurando uma tocha dourada sobre campo
 ## ✨ A Grande Anátema
 - Há aqueles que dizem que na antiguidade os deuses caminhavam por Utgard e que tinham grande poder. Mas um evento cataclísmico rasgou a ligação entre Utgard e a morada dos deuses, o que fez os deuses serem banidos do mundo e só poderem interferir nele através de seus seguidores.
 - Segundo a Igreja da Prima Luz, porém, o que os demais chamam de “deuses que caminhavam na terra” eram mortais poderosos, e que Urien removeu seus poderes pois não se mostraram dignos.
-
-[Teste](teste.md)
