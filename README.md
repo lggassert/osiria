@@ -27,5 +27,3 @@
 ## ✨ A Grande Anátema
 - Há aqueles que dizem que na antiguidade os deuses caminhavam por Utgard e que tinham grande poder. Mas um evento cataclísmico rasgou a ligação entre Utgard e a morada dos deuses, o que fez os deuses serem banidos do mundo e só poderem interferir nele através de seus seguidores.
 - Segundo a Igreja da Prima Luz, porém, o que os demais chamam de “deuses que caminhavam na terra” eram mortais poderosos, e que Urien removeu seus poderes pois não se mostraram dignos.
-
-[Teste](teste.md)
