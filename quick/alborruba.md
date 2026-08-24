@@ -1,4 +1,4 @@
-## 🌹Casa Alborruba e seus aliados
+## 🌹[Casa Alborruba](../alborruba.md) e seus aliados
 _O brasão da dinastia é uma rara rosa de interior vermelho-sangue aveludado e exterior branco-prateado. Lema: “A Lei, com Amor.”_ 
 - __Rei Alden de Alborruba, o Bom Rei__: O antigo monarca de Osíria, falecido recentemente de maneira repentina. Era profundamente amado e respeitado.
 - __Aethel de Alborruba__: A filha mais velha de Alden, preparada para governar. É muito popular entre os cidadãos comuns. Atualmente, está presa no palácio em um casamento forçado com o Rei Silax.
