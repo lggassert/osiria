@@ -1,5 +1,6 @@
 # O Submundo Vivo
 <div style="text-align: right">por Pindorama Jonas, explorador de dungeons</div>
+<br />
 
 O povo Anão acredita que todas as montanhas se unem sob a terra, e que nas profundezas da Montanha-Mãe bate seu coração. Depois de uma vida dedicada a entrar e sair de buracos suspeitos na terra, devo dizer que tendo a concordar.
 
