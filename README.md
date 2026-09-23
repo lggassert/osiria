@@ -1,7 +1,5 @@
 {% include_relative links.md %}
 
-<hr>
-
 # Guia Rápido para Osíria
 
 {% include_relative quick/alborruba.md %}
