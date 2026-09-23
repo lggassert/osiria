@@ -1,5 +1,7 @@
 [O Submundo Vivo]({{ site.baseurl }}{% link submundo_vivo.md %})
 
+<hr>
+
 # Guia Rápido para Osíria
 
 {% include_relative quick/alborruba.md %}
