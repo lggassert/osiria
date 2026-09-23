@@ -1,4 +1,4 @@
-[Documentos]({{ site.baseurl }}{% link documentos.md %})
+[Início]({{ site.baseurl }}{% link README.md %}) | [Documentos]({{ site.baseurl }}{% link documentos.md %})
 
 <hr>
 
